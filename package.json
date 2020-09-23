@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oikei54/myserver/issues"
   },
-  "homepage": "https://github.com/oikei54/myserver#readme"
+  "homepage": "https://github.com/oikei54/myserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
